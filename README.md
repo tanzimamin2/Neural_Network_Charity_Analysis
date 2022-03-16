@@ -48,5 +48,5 @@ In summary, we created a binary classifier that is capable of predicting whether
 After multiple attempts, hidden layers were increased and decreased. Neuron counts were increased and decreased. But did not result in a better performance.
 
 ## Links
-  * Visit this [link]() for the excel dataset and other resources.
+  * Visit this [link](https://github.com/tanzimamin2/Neural_Network_Charity_Analysis) for the excel dataset and other resources.
    
